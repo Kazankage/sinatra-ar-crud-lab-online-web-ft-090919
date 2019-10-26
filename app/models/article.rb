@@ -2,3 +2,8 @@
 
 class Article < ActiveRecord::Base
 end
+
+
+class Post < ActiveRecord::Base
+
+end
